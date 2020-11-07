@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>K.DINESH</title>
+</head>
+<body>
+    <h1 style="text-align:center;">Dinesh.K</h1>
+    <hr>
+    <u><h2>Personal Details:</h2></u>
+    
+    <h3>DOB: 08 aug 2000</h3>
+    <a href="mailto:dinesh310618105010@gmail.com"target=" "><p id="email">dinesh310618105010@gmail.com</p></a>
+    <p id="contact">9445715202</p>
+
+    <u><h2>Acadamic Details:</h2></u>
+    <h3>School:-</h3>
+    <h4>10th : Sree Narayana Mission senior sec school</h4>
+    <h4>12th : Sree Narayana Mission senior Sec School</h4>
+    <u><h2>Projects:</h2></u>
+    <h2>Assembling & connection of solar pannels:</h2>
+    <p><h4> Different volts solar pannels are arranged according to need output and connected to the supply</h4></p>
+    <u><h2>Experience:</h2></u>
+    <p><h4>Industrial visit to TANGENCO sriperumbudur, chennai</h4></p>  
+    <u><h2>Teachnical Skills:</h2></u>
+    <p><h4>familier with c,c++,autocad,java,SQL,python.</h4></p>
+    <u><h2>Managerial skills:</h2></u>
+    <p><h4>Mentoring skills(guiding juinors in their projects and course work).</p>
+    <p>Possess good leadership skills.</p>
+    <p>Possess Strong Commitment To Team Environment.</h4></p><br><br><br>
+    <p><h4>I assure that the particulars furnished above are correct and true to the best of my knowledge.</h4></p>
+
+    
+    
+   
+</body>
+</html>
