@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>K.DINESH</title>
+    <title>s.kalki</title>
 </head>
 <body>
-    <h1 style="text-align:center;">Dinesh.K</h1>
+    <h1 style="text-align:center;">S.kalki</h1>
     <hr>
     <u><h2>Personal Details:</h2></u>
     
-    <h3>DOB: 08 aug 2000</h3>
-    <a href="mailto:dinesh310618105010@gmail.com"target=" "><p id="email">dinesh310618105010@gmail.com</p></a>
-    <p id="contact">9445715202</p>
+    <h3>DOB: 26 jan 2001 </h3>
+    <a href="mailto:kalkisritharan2001@gmail.com"target=" "><p id="email">dinesh310618105010@gmail.com</p></a>
+    <p id="contact">9976263028</p>
 
     <u><h2>Acadamic Details:</h2></u>
     <h3>School:-</h3>
-    <h4>10th : Sree Narayana Mission senior sec school</h4>
-    <h4>12th : Sree Narayana Mission senior Sec School</h4>
+    <h4>10th : kamakoti vidyalaya</h4>
+    <h4>12th : Sree venkateswara higher sec School</h4>
     <u><h2>Projects:</h2></u>
     <h2>Assembling & connection of solar pannels:</h2>
     <p><h4> Different volts solar pannels are arranged according to need output and connected to the supply</h4></p>
